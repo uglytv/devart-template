@@ -2,7 +2,7 @@
 Insert the name of your project
 
 ## Authors
-- Insert main author name, surname, github account
+- Eduardo Jimenez, surname, github account
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
